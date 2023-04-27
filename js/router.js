@@ -3,7 +3,9 @@
 const routes = {
     '/' : '/pages/home.html',
     '/vermelho' : '/pages/vermelho.html',
-    '/azul' : '/pages/azul.html'
+    '/azul' : '/pages/azul.html',
+    '/rosa' : '/pages/rosa.html',
+    '/verde' : '/pages/verde.html'
 }
 
 const route = async () => {
